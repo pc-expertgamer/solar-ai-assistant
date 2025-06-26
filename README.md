@@ -1,6 +1,6 @@
 ---
 title: Solar AI Assistant
-emoji: ☀️
+
 colorFrom: yellow
 colorTo: blue
 sdk: streamlit
