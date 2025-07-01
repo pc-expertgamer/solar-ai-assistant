@@ -37,7 +37,7 @@ The system takes a satellite image of a rooftop, along with the property's locat
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone (https://github.com/pc-expertgamer/solar-ai-assistant)
     cd solar-ai-assistant
     ```
 
